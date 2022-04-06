@@ -1,5 +1,5 @@
 ### Hi there 👋 
-MY name is Shahed, I aspire to become a wed developer to help drive change in today's rapidly globalising world! 
+My name is Shahed, I aspire to become a wed developer to help drive change in today's rapidly globalising world! 
 
 
 NOW
