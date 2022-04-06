@@ -1,8 +1,6 @@
 ### Hi there 👋 my name is Shahed Ali 
 
 
-**Shahed-02/Shahed-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 NOW
 
 - 🔭 Currently working on: HTML, CSS & JavaScript & a AI powered car! 
