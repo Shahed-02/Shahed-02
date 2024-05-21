@@ -15,3 +15,4 @@ NOW
 
 <a href="https://ibb.co/Fq1QhcF"><img src="https://i.ibb.co/dJvNfXR/Basics-of-CSS-Codecademy-Certificate.jpg" alt="Basics-of-CSS-Codecademy-Certificate" border="0" /></a>
 
+<a href="https://ibb.co/Fq1QhcF"><img src="https://i.ibb.co/BKJhfv9/Basics-of-CSS-Codecademy-Certificate.jpg" alt="Basics-of-CSS-Codecademy-Certificate" border="0"></a>
