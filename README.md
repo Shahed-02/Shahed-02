@@ -12,6 +12,6 @@ NOW
 - ⚡ Fun fact: I love cats with a passion
 
 - ### My Certificates
-[Basics of HTML (Codecademy) Certificate.pdf](https://github.com/Shahed-02/Shahed-02/files/15392190/Basics.of.HTML.Codecademy.Certificate.pdf)
 
+![](images/Basics of HTML (Codecademy) Certificate.pdf)
 
