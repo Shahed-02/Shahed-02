@@ -13,5 +13,5 @@ NOW
 
 - ### My Certificates
 
-Certification Proof Basics of HTML(Codecademy)Certificate.png
+![!](Certification Proof Basics of HTML(Codecademy)Certificate.png)
 
