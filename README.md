@@ -13,5 +13,5 @@ NOW
 
 - ### My Certificates
 
-![!](Images/Basics of HTML (Codecademy) Certificate.pdf)
+![HTML Basics!](Basics of CSS (Codecademy) Certificate.pdf)
 
