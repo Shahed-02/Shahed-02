@@ -12,10 +12,10 @@ NOW
 - ⚡ Fun fact: I love cats with a passion
 
 - ## My Certificates
-<a href="https://ibb.co/BB4hPfS"><img src="https://i.ibb.co/kX3LyGW/Basics-of-HTML-Codecademy-Certificate.jpg" alt="Basics-of-HTML-Codecademy-Certificate" ></a>
-<a href="https://ibb.co/Fq1QhcF"><img src="https://i.ibb.co/dJvNfXR/Basics-of-CSS-Codecademy-Certificate.jpg" alt="Basics-of-CSS-Codecademy-Certificate"  ></a>
-<a href="https://ibb.co/w7SsgvR"><img src="https://i.ibb.co/428dtQ7/Basics-of-Java-Script-Codecademy-Certificate.jpg" alt="Basics-of-Java-Script-Codecademy-Certificate" ></a>
-<a href="https://ibb.co/SPnc0mH"><img src="https://i.ibb.co/zrRFb2C/Basics-of-PHP-Codecademy-Certificate.jpg" alt="Basics-of-PHP-Codecademy-Certificate" ></a>
+<a href="https://ibb.co/BB4hPfS"><img src="https://i.ibb.co/kX3LyGW/Basics-of-HTML-Codecademy-Certificate.jpg" alt="Basics-of-HTML-Codecademy-Certificate" height="200px" width="200px"></a>
+<a href="https://ibb.co/Fq1QhcF"><img src="https://i.ibb.co/dJvNfXR/Basics-of-CSS-Codecademy-Certificate.jpg" alt="Basics-of-CSS-Codecademy-Certificate"  height="200px" width="200px"></a>
+<a href="https://ibb.co/w7SsgvR"><img src="https://i.ibb.co/428dtQ7/Basics-of-Java-Script-Codecademy-Certificate.jpg" alt="Basics-of-Java-Script-Codecademy-Certificate" height="200px" width="200px" ></a>
+<a href="https://ibb.co/SPnc0mH"><img src="https://i.ibb.co/zrRFb2C/Basics-of-PHP-Codecademy-Certificate.jpg" alt="Basics-of-PHP-Codecademy-Certificate" height="200px" width="200px" ></a>
 
 
 
