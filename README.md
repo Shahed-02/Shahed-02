@@ -13,5 +13,5 @@ NOW
 
 - ### My Certificates
 
-(https://github.com/Shahed-02/Shahed-02/blob/beac4062a6bc2c9b5b6aaf1024e1962ea3f1bf58/Basics%20of%20PHP%20(Codecademy)%20Certificate.pdf)
+[(https://github.com/Shahed-02/Shahed-02/blob/beac4062a6bc2c9b5b6aaf1024e1962ea3f1bf58/Basics%20of%20PHP%20(Codecademy)%20Certificate.pdf)](https://github.com/Shahed-02/Shahed-02/blob/beac4062a6bc2c9b5b6aaf1024e1962ea3f1bf58/Basics%20of%20PHP%20(Codecademy)%20Certificate.pdf)
 
