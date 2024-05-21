@@ -13,8 +13,5 @@ NOW
 
 - ### My Certificates
 
-https://ibb.co/Fq1QhcF
-https://ibb.co/BB4hPfS
-https://ibb.co/w7SsgvR
-https://ibb.co/SPnc0mH
+<a href="https://ibb.co/Fq1QhcF"><img src="https://i.ibb.co/dJvNfXR/Basics-of-CSS-Codecademy-Certificate.jpg" alt="Basics-of-CSS-Codecademy-Certificate" border="0" /></a>
 
