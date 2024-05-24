@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Shahed Ali, I aspire to become a wed developer to help drive change in today's rapidly globalising world! 
+My name is Shahed Ali, I aspire to become a Software Developer to help drive efficiency in all areas of business!
 
 
 NOW
