@@ -1,21 +1,72 @@
-### Hi there 👋 
-My name is Shahed Ali, I aspire to become a Software Developer to help drive efficiency in all areas of business!
 
+# 💻 Shahed Ali 
+🔍 **Data Analyst | Lifelong Learner**  
+🌟 Passionate about transforming large datasets into managable insights!  
 
-NOW
+---
 
-- 🔭 Currently working on: My programming skills! 
-- 🌱 Currently learning: CodeAcademy's SQL Course 
-- BIO
-- ⚙ I have fun with: HTML, CSS, Javascript, PHP,Python and MYSQL
-- 📫 Connect with me in Instagram: https://www.instagram.com/shahed_ali_02/ LinkdIn: https://www.linkedin.com/in/shahed-ali-550a3020b/
-- ⚡ Fun fact: I love cats with a passion
+## 🛠️ Core Skills  
+Here are the tools and technologies I use to solve problems and craft data-driven stories:  
 
-- ## My Certificates
-<a href="https://ibb.co/BB4hPfS"><img src="https://i.ibb.co/kX3LyGW/Basics-of-HTML-Codecademy-Certificate.jpg" alt="Basics-of-HTML-Codecademy-Certificate" height="400px" width="400px"></a>
-<a href="https://ibb.co/Fq1QhcF"><img src="https://i.ibb.co/dJvNfXR/Basics-of-CSS-Codecademy-Certificate.jpg" alt="Basics-of-CSS-Codecademy-Certificate"  height="400px" width="400px"></a>
-<a href="https://ibb.co/w7SsgvR"><img src="https://i.ibb.co/428dtQ7/Basics-of-Java-Script-Codecademy-Certificate.jpg" alt="Basics-of-Java-Script-Codecademy-Certificate" height="400px" width="400px" ></a>
-<a href="https://ibb.co/SPnc0mH"><img src="https://i.ibb.co/zrRFb2C/Basics-of-PHP-Codecademy-Certificate.jpg" alt="Basics-of-PHP-Codecademy-Certificate" height="400px" width="400px" ></a>
+### 🧰 **Tools & Technologies**
+- **Excel**  
+  ![Excel](https://img.shields.io/badge/Excel-%23339933.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+  - Proficient in Pivot Tables, advanced formulas, and data cleaning.  
+  - Experienced with creating dashboards and reports using charts and conditional formatting.  
 
+- **Tableau**  
+  ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
+  - Expert in designing interactive visualizations and dashboards.  
+  - Skilled in creating calculated fields and advanced filters for actionable insights.  
 
+- **Power BI**  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)  
+  - Deep knowledge of DAX for complex calculations and measures.  
+  - Experienced in data modeling, relationships, and report automation.  
+
+- **MySQL**  
+  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+  - Proficient in writing optimized SQL queries for data extraction and transformation.  
+  - Skilled in creating stored procedures, views, and joins.  
+
+- **Azure**  
+  ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+  - Familiar with Azure SQL Databases and cloud data solutions.  
+  - Experienced in deploying data projects and managing cloud storage.  
+
+- **Python**  
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+  - Skilled in data manipulation and analysis using Pandas and NumPy.  
+  - Proficient in data visualization using Matplotlib and Seaborn.  
+
+---
+
+## 📊 What I Do  
+- **Data Analysis**: Transform raw data into actionable insights through cleaning, exploration, and visualization.  
+- **Business Intelligence**: Develop interactive dashboards and dynamic reports to support decision-making.  
+- **Data Engineering**: Build robust data pipelines and workflows for efficient data processing.  
+- **Problem Solving**: Apply advanced calculations, statistical models, and logic to solve business challenges.  
+
+---
+
+## 🌟 Goals  
+🚀 Currently preparing for **PL-300: Microsoft Power BI Data Analyst** certification.  
+📚 Continuously exploring data engineering, cloud solutions, and AI-driven analytics.  
+
+---
+
+## 📫 Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/yusuf-satilmis/)  
+- [Portfolio](#) _(Add a link to your portfolio)_  
+
+---
+
+### 📈 GitHub Stats  
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-satilmis&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-satilmis&layout=compact&theme=radical)  
+
+---
+
+### ✨ Want to Collaborate?  
+Feel free to open an issue or reach out to me. Let's create amazing data solutions together!  
 
