@@ -50,20 +50,20 @@ Here are the tools and technologies I use to solve problems and craft data-drive
 ---
 
 ## 🌟 Goals  
-🚀 Currently preparing for **PL-300: Microsoft Power BI Data Analyst** certification.  
+🚀 Currently completing JustIT's dataskills bootcamp!   
 📚 Continuously exploring data engineering, cloud solutions, and AI-driven analytics.  
 
 ---
 
 ## 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/yusuf-satilmis/)  
+- [LinkedIn]([https://www.linkedin.com/in/yusuf-satilmis/](https://www.linkedin.com/in/shahed-ali-550a3020b/))  
 - [Portfolio](#) _(Add a link to your portfolio)_  
 
 ---
 
 ### 📈 GitHub Stats  
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-satilmis&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-satilmis&layout=compact&theme=radical)  
+![Shahed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahed-02&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahed-02&layout=compact&theme=radical)  
 
 ---
 
