@@ -9,7 +9,7 @@
 Here are the tools and technologies I use to solve problems and craft data-driven stories:  
 
 
-## Data Visualisation & Reporting
+## 📊 Data Visualisation & Reporting 🎨
 📈  **Excel**  
   ![Excel](https://img.shields.io/badge/Excel-%23339933.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
   - Proficient in Pivot Tables, advanced formulas, and data cleaning.  
@@ -25,15 +25,18 @@ Here are the tools and technologies I use to solve problems and craft data-drive
   - Deep knowledge of DAX for complex calculations and measures.  
   - Experienced in data modeling, relationships, and report automation.  
 
+## 🛢️ Database Management 💾
 🛢️  **MySQL**  
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
   - Proficient in writing optimized SQL queries for data extraction and transformation.  
-  - Skilled in creating stored procedures, views, and joins.  
+  - Skilled in creating stored procedures, views, and joins.
+## ☁️ Cloud & Collaboration 🌐
 
 ☁️  **Azure**  
   ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
   - Familiar with Azure SQL Databases and cloud data solutions.  
-  - Experienced in deploying data projects and managing cloud storage.  
+  - Experienced in deploying data projects and managing cloud storage.
+## 🖥️ Programming & Data Analysis 💻
 
 🐍  **Python**  
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
