@@ -1,7 +1,7 @@
 
 # 💻 Shahed Ali 
 🔍 **Data Analyst | Lifelong Learner**  
-🌟 Passionate about transforming large datasets into managable insights!  
+🌟 Passionate about transforming large datasets into smaller and actionable insights!  
 
 ---
 
