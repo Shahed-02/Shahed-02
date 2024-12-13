@@ -56,7 +56,7 @@ Here are the tools and technologies I use to solve problems and craft data-drive
 ---
 
 ## 📫 Let's Connect  
-- [LinkedIn]([https://www.linkedin.com/in/yusuf-satilmis/](https://www.linkedin.com/in/shahed-ali-550a3020b/))  
+- [LinkedIn](https://www.linkedin.com/in/shahed-ali-550a3020b/)  
 - [Portfolio](#) _(Add a link to your portfolio)_  
 
 ---
